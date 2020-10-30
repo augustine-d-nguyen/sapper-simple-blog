@@ -1,6 +1,7 @@
 .DS_Store
 /node_modules/
-/src/node_modules/@sapper/
+/functions/node_modules/
+/functions/src/node_modules/@sapper/
 yarn-error.log
-/__sapper__/
+/functions/__sapper__/
 .vscode
