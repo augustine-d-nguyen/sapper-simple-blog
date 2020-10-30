@@ -1,7 +1,0 @@
-.DS_Store
-/node_modules/
-/functions/node_modules/
-/functions/src/node_modules/@sapper/
-yarn-error.log
-/functions/__sapper__/
-.vscode
